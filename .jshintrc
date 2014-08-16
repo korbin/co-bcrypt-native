@@ -1,0 +1,13 @@
+{
+  "esnext": true,
+  "eqeqeq": true,
+  "freeze": true,
+  "node": true,
+  "plusplus": true,
+  "quotmark": "single",
+  "strict": true,
+  "undef": true,
+  "predef": [
+    "it", "context", "describe"
+  ]
+}

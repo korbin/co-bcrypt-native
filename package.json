@@ -1,0 +1,42 @@
+{
+  "name": "co-bcrypt-native",
+  "version": "0.1.0",
+  "description": "co wrapper for native bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "hydro --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/korbin/co-bcrypt-native.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "hash",
+    "salt",
+    "password",
+    "co",
+    "koa"
+  ],
+  "author": "korbin <k1@k1.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korbin/co-bcrypt-native/issues"
+  },
+  "homepage": "https://github.com/korbin/co-bcrypt-native",
+  "dependencies": {
+    "bcrypt": "^0.8.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "co": "^3.1.0",
+    "hydro": "^0.10.1",
+    "hydro-chai": "^0.3.0",
+    "hydro-co": "0.0.1",
+    "hydro-dot": "^2.0.1",
+    "jshint": "^2.5.3"
+  },
+  "engines": {
+    "node": ">=0.11"
+  }
+}
