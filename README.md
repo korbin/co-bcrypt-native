@@ -1,6 +1,6 @@
 # co-bcrypt-native
 
-## Synposis
+## Synopsis
 
 This is a wrapper around the natively bound 'bcrypt' npm package.
 
